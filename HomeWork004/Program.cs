@@ -10,7 +10,7 @@ int N = Convert.ToInt32(Console.ReadLine());
 
 int i = 2;
 
-while (i < N)
+while (i <= N)
 {
     Console.Write("Четное число: ");
     Console.WriteLine(i);
